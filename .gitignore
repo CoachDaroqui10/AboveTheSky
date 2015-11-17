@@ -41,3 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+AboveTheSky/cocos2d/
+AboveTheSky/proj.android
+AboveTheSky/proj.android-studio
+AboveTheSky/proj.ios_mac
+AboveTheSky/proj.linux
+AboveTheSky/proj.win8.1-universal
+AboveTheSky/proj.win10
+AboveTheSky/proj.win32
+AboveTheSky/CMakeLists
+AboveTheSky/.cocos-project.json
+
